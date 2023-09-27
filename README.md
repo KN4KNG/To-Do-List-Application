@@ -46,7 +46,7 @@ To run this application, you need to have Python installed on your computer. Pyt
 
 ## Screenshots
 
-![Screenshot](INSERTSCREENSHOTHERE)
+![Screenshot](https://github.com/KN4KNG/To-Do-List-Application/blob/main/Screenshot.png)
 
 ## License
 
